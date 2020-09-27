@@ -5,10 +5,10 @@ https://everymac.com/systems/apple/macbook/specs/macbook-core-2-duo-2.13-white-1
 
 2. Watch: Make a bootable usb disk for Mac OS<br>
 https://www.youtube.com/watch?v=ughBRtJwqQI&t=81s<br>
-
-2. 1. Xubuntu downloads<br
+2. 1. Install UnetBootin http://unetbootin.github.io/
+2. 2. Xubuntu downloads<br
 http://cdimage.ubuntu.com/xubuntu/releases/18.04/release/<br>
-2. 2. Make usb disk<br>
+2. 3. Make usb disk<br>
 
 3. Upgrade if need be<br>
 https://askubuntu.com/questions/1141501/i-cant-run-sudo-apt-get-update-in-ubuntu-17-10<br>
