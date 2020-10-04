@@ -20,11 +20,11 @@ https://askubuntu.com/questions/1076964/macbook-can-t-find-wifi-for-ubuntu-18-04
 lspci -vvnn | grep -A 9 Network -> Broadcom 4321 chipset<br>
 Worked: <br>
 https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers <br>
-<code>
+
 sudo apt install firmware-b43-installer <br>
 sudo apt install linux-firmware <br>
 sudo reboot <br>
 sudo modprobe -r b43 <br>
 sudo modprobe b43    <br>
 sudo rfkill unblock all  <br>
-</code>
+
