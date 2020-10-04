@@ -28,3 +28,5 @@ sudo modprobe -r b43 <br>
 sudo modprobe b43    <br>
 sudo rfkill unblock all  <br>
 
+Fix french canadian keyboard layout: <br>
+https://askubuntu.com/questions/896551/mac-canadian-multilingual-keyboard-on-ubuntu <br>
