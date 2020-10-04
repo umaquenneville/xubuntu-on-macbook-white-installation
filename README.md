@@ -30,3 +30,5 @@ sudo rfkill unblock all  <br>
 
 Fix french canadian keyboard layout: <br>
 https://askubuntu.com/questions/896551/mac-canadian-multilingual-keyboard-on-ubuntu <br>
+sudo apt install --reinstall xkb-data <br>
+setxkbmap -option "lv3:lalt_switch,lv3:ralt_alt,apple:badmap"<br>
