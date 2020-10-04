@@ -32,3 +32,6 @@ Fix french canadian keyboard layout: <br>
 https://askubuntu.com/questions/896551/mac-canadian-multilingual-keyboard-on-ubuntu <br>
 sudo apt install --reinstall xkb-data <br>
 setxkbmap -option "lv3:lalt_switch,lv3:ralt_alt,apple:badmap"<br>
+
+Numlock On <br>
+https://askubuntu.com/questions/155679/how-to-enable-numlock-at-boot-time-for-login-screen<br>
