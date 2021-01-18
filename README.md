@@ -32,6 +32,18 @@ Fix french canadian keyboard layout: <br>
 https://askubuntu.com/questions/896551/mac-canadian-multilingual-keyboard-on-ubuntu <br>
 sudo apt install --reinstall xkb-data <br>
 setxkbmap -option "lv3:lalt_switch,lv3:ralt_alt,apple:badmap"<br>
+other option:
+setxkbmap ca multi shs
 
 Numlock On <br>
 https://askubuntu.com/questions/155679/how-to-enable-numlock-at-boot-time-for-login-screen<br>
+
+Wifi disconnecting <br>
+Provide a static ip, mask and gateway (avoid using dhcp)
+https://askubuntu.com/questions/1032703/wifi-frequently-disconnecting-timeout
+
+Applications<br> 
+Install... 
+- MS Teams
+- Zoom 
+
